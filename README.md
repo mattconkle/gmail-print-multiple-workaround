@@ -11,4 +11,6 @@ document.body.innerHTML = document.body.innerHTML.replace(new RegExp('----------
 
 5. Now you can print. This simple script will add page breaks above each message allowing you to print the individual pages. Some emails may be multi page, so you can custom select the pages you need and omit the extras if they exist. 
 
+__NOTE: This method is limited to 10 emails, above that gets truncated by the system.__
+
 Hope This helps someone :)
